@@ -1,11 +1,12 @@
 # QBCore-Vinewood-Sign
-QBCore Vinewood Sign
 
 ## Preview
 https://imgur.com/a/epmiYQ7
 
 ## Join our discord!
 https://discord.gg/7Ptbz4C9Fa
+
+## Changeable colours within OpenIV
 
 ## Credits
 IAKKO MAPS - Helping:D
